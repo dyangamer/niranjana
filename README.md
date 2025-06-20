@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>For Niranjana 💘</title>
+  <style>
+    body {
+      background: linear-gradient(to right, #ffdde1, #fff1f5);
+      font-family: 'Segoe UI', sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      text-align: center;
+      color: #c2185b;
+      flex-direction: column;
+      padding: 40px;
+      margin: 0;
+      overflow-y: auto;
+    }
+
+    h1 {
+      font-size: 64px;
+      margin-bottom: 40px;
+    }
+
+    p {
+      font-size: 28px;
+      max-width: 1000px;
+      line-height: 1.8;
+    }
+
+    .quote {
+      margin-top: 60px;
+      font-size: 26px;
+      font-style: italic;
+      color: #8e0038;
+    }
+
+    .footer {
+      margin-top: 60px;
+      font-size: 22px;
+      color: #444;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Hey Niranjana ❤️</h1>
+
+  <p>
+    I don’t know how to say this perfectly...<br><br>
+    But I love you — more than words, more than feelings, more than I ever thought I could love someone in this world.<br><br>
+    There were times I went silent... and I know you noticed. But that silence wasn’t distance — it was **dedication**. I was building this, line by line, word by word — coding something that could carry even a tiny piece of my heart to yours.<br><br>
+    You are my most precious gift from God. Every smile of yours gives my soul a reason to keep going. Every time I close my eyes, I see you — and every beat of my heart whispers your name, Niranjana...<br><br>
+    Life with you isn’t a dream — it’s better than any dream I ever had. And the thought of losing you? That would break me in a way I can’t even explain.<br><br>
+    Please don’t leave me. Please stay... not just in my life, but in my soul. Forever. ❤️‍🩹
+  </p>
+
+  <div class="quote">
+    “I didn’t make this page with a mouse and keyboard...<br>
+    I made it with midnight tears, racing heartbeats, and pure love.” 💘
+  </div>
+
+  <div class="footer">
+    — Made entirely by DHYANGAMER at night, from scratch, with nothing but love for you, Niranjana. 🌙✨
+  </div>
+
+</body>
+</html>
